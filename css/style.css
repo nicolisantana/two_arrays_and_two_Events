@@ -1,0 +1,24 @@
+body{
+  background-color:#cf7bb6;
+  font-family: cursive;
+  font-size: 20px;
+  font-style: oblique;
+  color: #000000;
+
+}
+
+#gatinho{
+  border-radius: 100%;
+  width: 220px;
+  height: 220px;
+}
+
+.titulo{
+  font-family: cursive;
+  font-style: oblique, italic;
+  font-size: 250%;
+  text-align: center;
+  color: #000000;
+  text-shadow: 0.1em 0.1em 0.04em #b1047d;
+}
+
